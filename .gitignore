@@ -1,0 +1,21 @@
+# Resultados de auditorias locales
+Server-Security-Audit-*/
+AuditoriaServidor/
+*.html
+*.tmp
+Diagnostico.txt
+
+# Archivos CSV generados por ejecucion
+Hallazgos.csv
+Evidencia-*.csv
+
+# Archivos de entorno y editores
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Archivos de sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
